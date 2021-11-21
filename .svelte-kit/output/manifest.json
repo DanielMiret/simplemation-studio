@@ -1,0 +1,94 @@
+{
+  ".svelte-kit/build/runtime/internal/start.js": {
+    "file": "start-170adc0a.js",
+    "src": ".svelte-kit/build/runtime/internal/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/build/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/explorer.svelte",
+      "src/routes/studio/__layout.reset.svelte",
+      "src/routes/studio/index.svelte"
+    ],
+    "css": [
+      "assets/start-61d1577b.css"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-f076eeca.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-4232b9df.css",
+      "assets/app-df3367e1.css"
+    ]
+  },
+  ".svelte-kit/build/components/error.svelte": {
+    "file": "error.svelte-e1fb75b7.js",
+    "src": ".svelte-kit/build/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-5bee1dea.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-711e15b7.css"
+    ]
+  },
+  "src/routes/explorer.svelte": {
+    "file": "pages/explorer.svelte-ad910c76.js",
+    "src": "src/routes/explorer.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "css": [
+      "assets/pages/explorer.svelte-0271b027.css"
+    ]
+  },
+  "src/routes/studio/__layout.reset.svelte": {
+    "file": "pages/studio/__layout.reset.svelte-5433e34b.js",
+    "src": "src/routes/studio/__layout.reset.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "css": [
+      "assets/app-df3367e1.css"
+    ]
+  },
+  "src/routes/studio/index.svelte": {
+    "file": "pages/studio/index.svelte-48c05a37.js",
+    "src": "src/routes/studio/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-f3701dfd.js"
+    ],
+    "css": [
+      "assets/pages/studio/index.svelte-b7649fa9.css"
+    ]
+  },
+  "_vendor-f3701dfd.js": {
+    "file": "chunks/vendor-f3701dfd.js"
+  }
+}

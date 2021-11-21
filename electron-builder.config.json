@@ -1,0 +1,19 @@
+{
+    "asar": true,
+    "directories": {
+        "output": "dist"
+    },
+    "mac": {
+        "icon": "static/img/icons/icon.icns"
+    },
+    "win": {
+        "icon": "static/img/icons/icon.png"
+    },
+    "files": [
+        "main.cjs",
+        {
+            "from": "build",
+            "to": ""
+        }
+    ]
+}
