@@ -6,9 +6,6 @@ const dev = process.env.NODE_ENV == "development"
 export default {
     kit: {
         adapter: adapter(),
-        target: "#svelte",
-        ssr: false,
-
         vite: {
             compilerOptions: { dev },
             plugins: []
